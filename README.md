@@ -1,2 +1,2 @@
 # ds_tests
-Test for DS
+Example tests
